@@ -1,4 +1,4 @@
-# dssc_ucl_20160207
+# Hackathon - UCL Data Science Student Challenge
 
 Team Sleep on The Job
 
